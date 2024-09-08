@@ -7,6 +7,7 @@ Baseado nos artigos:
 # Pré-requisitos
 
 [VMWare Workstation Player 17](https://download3.vmware.com/software/WKST-PLAYER-1702/VMware-player-full-17.0.2-21581411.exe)
+
 [VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 [Ubuntu 20](https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso)
